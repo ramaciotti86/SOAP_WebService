@@ -1,0 +1,15 @@
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\DeleteCourseDetailsRequest.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\GetAllCourseDetailsRequest.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\CourseDetails.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\soap\webservices\coursemanagement\soap\CourseDetailsEndpoint.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\soap\webservices\coursemanagement\soap\service\CourseDetailsService.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\soap\webservices\coursemanagement\soap\WebServiceConfig.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\package-info.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\soap\webservices\coursemanagement\CourseManagementApplication.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\GetCourseDetailsRequest.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\soap\webservices\coursemanagement\soap\bean\Course.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\Status.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\GetCourseDetailsResponse.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\GetAllCourseDetailsResponse.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\DeleteCourseDetailsResponse.java
+C:\Users\ezvinra\Documents\Learning\SOAP Web Services\course-management\src\main\java\com\in28minutes\courses\ObjectFactory.java

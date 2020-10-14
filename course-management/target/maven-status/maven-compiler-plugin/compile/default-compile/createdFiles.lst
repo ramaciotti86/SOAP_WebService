@@ -1,0 +1,16 @@
+com\in28minutes\soap\webservices\coursemanagement\soap\CourseDetailsEndpoint.class
+com\in28minutes\courses\GetCourseDetailsRequest.class
+com\in28minutes\courses\Status.class
+com\in28minutes\courses\DeleteCourseDetailsRequest.class
+com\in28minutes\soap\webservices\coursemanagement\soap\service\CourseDetailsService$Status.class
+com\in28minutes\courses\GetAllCourseDetailsRequest.class
+com\in28minutes\courses\GetAllCourseDetailsResponse.class
+com\in28minutes\courses\GetCourseDetailsResponse.class
+com\in28minutes\soap\webservices\coursemanagement\soap\WebServiceConfig.class
+com\in28minutes\courses\DeleteCourseDetailsResponse.class
+com\in28minutes\courses\ObjectFactory.class
+com\in28minutes\soap\webservices\coursemanagement\CourseManagementApplication.class
+com\in28minutes\soap\webservices\coursemanagement\soap\bean\Course.class
+com\in28minutes\courses\package-info.class
+com\in28minutes\soap\webservices\coursemanagement\soap\service\CourseDetailsService.class
+com\in28minutes\courses\CourseDetails.class
